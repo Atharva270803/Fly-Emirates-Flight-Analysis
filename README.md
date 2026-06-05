@@ -1,4 +1,4 @@
-# ✈️ Fly Emirates — US Flight Performance Analysis 2015
+# ✈️ Fly Emirates - US Flight Performance Analysis 2015
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
